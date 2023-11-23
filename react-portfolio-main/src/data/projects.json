@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Discussify - Social Network like Quora",
+    "imageSrc": "projects/project.png",
+    "description":  
+      "Developed a web application inspired by Quora during a hackathon by TIAA company.Key features include user registration, post creation with a character limit of 2000.Implemented engagement tools such as comments, upvotes, downvotes, and trending posts based on categories.Focused on creating a user-friendly interface and fostering a vibrant online knowledge-sharing and discussion community."
+    ,
+    "skills": ["HTML", "CSS", "Javascript", "React.js", "ExpressJS", "NodeJS", "MongoDB"
+  ],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/yashkondewar/Discussify"
+  },
+  {
+    "title": "• Blood Bank Management System",
+    "imageSrc": "projects/project.png",
+    "description": 
+      "Developed an online platform for blood bank management.Implemented features include User Panel, Admin Panel, User Registration, View Personal Donation/Receive Details, Manage Stock, Manage Records, Account Settings, Track Users Activity Logs."
+    ,
+    "skills": ["HTML", "CSS", "Javascript","PHP Server", "MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/arpita2525/Blood-bank-management-system"
+  }
+]

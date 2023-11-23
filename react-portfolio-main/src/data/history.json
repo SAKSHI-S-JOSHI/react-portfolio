@@ -1,0 +1,33 @@
+[
+
+  {
+    "role": "Microsoft Engage Mentee",
+    "organisation": "Mirosoft",
+    "startDate": "May, 2021",
+    "endDate": "June, 2020",
+    "experiences":["Developed a Face Recognition Attendance System"],
+    "imageSrc": "history/microsoft.png"
+  },
+  
+  {
+    "role": "HR Relations Executive",
+    "organisation": "Training and Placement Cell, SGGSIE&T",
+    "startDate": "Sept, 2021",
+    "endDate": "May, 2023",
+    "experiences":["Worked on CRM, Superset (ERP software), LinkedIn, and e-mailing extensions like YAMM, GMAss, Streak, and Mergo Mail Merge.Contributed to conducting many placement drives and IPEV event in collaboration with IAF.Worked to enhance the alumni connect in our college."],
+    "imageSrc": "history/TnP.png"
+  },
+  {
+    "role": "Content Creator",
+    "organisation": "Training and Placement Cell, SGGSIE&T",
+    "startDate": "Sept, 2021",
+    "endDate": "June, 2022",
+    "experiences": 
+      ["Contributed to the three quarterly newsletters at this organisation, YouTube video descriptions, and departmental brochures.Wrote content for e-mails, promotional messages, and the official website of T&P Cell."
+    ],
+    "imageSrc": "history/TnP.png"
+    
+  }
+
+  
+]
